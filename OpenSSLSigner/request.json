@@ -1,0 +1,49 @@
+{
+  "Items": [
+    {
+      "Name": "AAAAAAAA",
+      "Barcode": "9653227304376",
+      "Label": "1636421827413",
+      "SPIC": "44733597921813678",
+      "PackageCode": "14544733597921813678",
+      "Units": 1092,
+      "GoodPrice": 0,
+      "Price": 100000000,
+      "VAT": 0,
+      "VATPercent": 0,
+      "Amount": 1,
+      "Discount": 0,
+      "Other": 0,
+      "Commissionlnfo": {
+        "TIN": "294211650",
+        "PINFL": ""
+      }
+    }
+  ],
+  "Receiptld": 7,
+  "ReceivedCash": 100000000,
+  "ReceivedCard": 0,
+  "TotalVAT": 0,
+  "IsRefund": 0,
+  "Time": "2022-11-30 15:07:40",
+  "ReceiptType": 0,
+  "Location": {
+    "Latitude": 41.29654071115864,
+    "Longitude": 69.21824036994671
+  },
+  "Taxilnfo": {
+    "TIN": "200000000",
+    "PINFL": "",
+    "CarNumber": "10A842RT"
+  },
+  "Refundlnfo": {
+    "TerminallD": "EZ000000000033",
+    "Receiptld": "3",
+    "DateTime": "20220225092416",
+    "FiscalSign": "982740742525"
+  },
+  "Extralnfo": {
+    "PhoneNumber": "998768754173",
+    "Other": ""
+  }
+}
